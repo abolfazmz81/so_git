@@ -1,3 +1,6 @@
+.ListBox{
+    box-shadow: inset;
+}
 .inputText{
     border-radius: 5px;
 }

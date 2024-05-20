@@ -1,3 +1,6 @@
 .inputText{
     border-radius: 5px;
 }
+.button{
+    border: 1px solid #ccc;
+}
